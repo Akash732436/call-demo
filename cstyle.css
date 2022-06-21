@@ -1,0 +1,63 @@
+body
+{   
+    background-image: url("back3.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.video1{
+    height: 120px;
+    width: 100px;
+}
+
+.video2{
+    height: 400px;
+    width: 640px;
+}
+.main{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+}
+
+.our{
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    margin-left: 20px;
+    float: left;
+}
+
+.remote{
+    width: 600px;
+    height: 400px;
+    margin-left: 300px;
+    align-content: center;
+    border: 2px solid;
+}
+.sub{
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    margin-top: 30px;
+}
+.inp{
+    width:130px;
+    border-radius: 15px;
+}
+.inp1{
+    width:130px;
+    border-radius: 15px;
+}
+input{
+height: 30px;
+}
+ .but{
+     margin-left:30px
+ }
+ button{
+     width: 50px;
+     height: 35px;
+     background-color: black;
+     color: whitesmoke;
+ }
